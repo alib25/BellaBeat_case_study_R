@@ -18,7 +18,5 @@ How could these trends apply to Bellabeat customers?
 How could these trends help influence Bellabeat marketing strategy?
 **Tools:**
 
-- R for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
-Data Set:
-
-The data set is publicly available on Kaggle.
+- R for Data Cleaning, Data transformation, visualisation and analysis
+- Data Set: The data set is publicly available on Kaggle.
