@@ -19,5 +19,5 @@ How could these trends help influence Bellabeat marketing strategy?
 
 **Tools:**
 
-- R for Data Cleaning, Data transformation, visualisation and analysis
+- R for Data Cleaning, Data transformation, visualization and analysis
 - Data Set: The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit).
